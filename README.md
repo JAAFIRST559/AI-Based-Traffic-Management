@@ -7,9 +7,9 @@ The Smart Adaptive Traffic Management System leverages AI and computer vision to
 
 ## 📸 Screenshots
 
-![1](screenshots/1.png)<br/><br/>
-![2](screenshots/2.png)<br/><br/>
-![3](screenshots/3.png)
+![1](/1.png)<br/><br/>
+![2](/2.png)<br/><br/>
+![3](/3.png)
 
 
 ## ✨ Features
@@ -32,7 +32,7 @@ The Smart Adaptive Traffic Management System leverages AI and computer vision to
 Clone the repository:
 
 ```bash
-git clone https://github.com/ashish0kumar/AI-Based-Traffic-Management.git
+git clone https://github.com/JAAFIRST559/AI-Based-Traffic-Management.git
 cd AI-Based-Traffic-Management
 ```
 
